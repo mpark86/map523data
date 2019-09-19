@@ -1,0 +1,15 @@
+{
+  "student": "Minuk Park",
+  "version": "1.0.0",
+  "timestamp": "2019-09-18T11:49:12+0000",
+  "count": 6,
+  "data": [
+    {"id": 101, "courseCode": "MAP523", "courseName": "Mobile App Development-IOS"},
+    {"id": 102, "courseCode": "DSA555", "courseName": "Data Structures"},
+    {"id": 103, "courseCode": "OSD600", "courseName": "Open Source Development"},
+    {"id": 104, "courseCode": "SPO600", "courseName": "Software Portability and Optimization"},
+    {"id": 105, "courseCode": "PMC115", "courseName": "IT Project Management Fundamentals"},
+    {"id": 106, "courseCode": "CUL402", "courseName": "The 1960s"}
+  ]
+}
+  
